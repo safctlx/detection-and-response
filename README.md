@@ -11,8 +11,5 @@ and incident response.
 | 02 | [Phishing Analysis](https://github.com/safctlx/detection-and-response/tree/main/Phishing-Analysis)) | Email header analysis, IOC extraction, triage workflow | T1566 |
 | 03 | [Malware Analysis](https://github.com/safctlx/detection-and-response/tree/main/Malware-Analysi) | Static and behavioural analysis, persistence, IOCs | T1547 |
 
-## Lab environment
-[Tools used + simple diagram]
-
 ## Related
 Attack side of these labs: [attack-techniques-research](https://github.com/safctlx/attack-techniques-research)
